@@ -54,5 +54,5 @@ The dataset contains anonymized retail transaction data, including:
 2. Install required dependencies:
    ```bash
    pip install pandas numpy matplotlib seaborn
-``
+
 3. Launch and run Black_Friday.ipynb in Jupyter Notebook or any supported IDE.
